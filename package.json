@@ -1,5 +1,5 @@
 {
-  "name": "SQL_up-develop-it",
+  "name": "sql-up-develop-it",
   "version": "1.0.0",
   "description": "**Title:**   Create a database that contains the candidates table",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vielayb/SQL_up-develop-it.git"
+    "url": "git+https://github.com/vielayb/sql-up-develop-it.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vielayb/SQL_up-develop-it/issues"
+    "url": "https://github.com/vielayb/sql-up-develop-it/issues"
   },
-  "homepage": "https://github.com/vielayb/SQL_up-develop-it#readme",
+  "homepage": "https://github.com/vielayb/sql-p-develop-it#readme",
   "dependencies": {
     "express": "^4.18.1",
     "mysql2": "^2.3.3"
